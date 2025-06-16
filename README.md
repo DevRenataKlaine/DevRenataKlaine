@@ -1,8 +1,8 @@
 <h1 align="center">Seja bem-vindo(a)!</h1>
 <h3 align="center">Eu sou Renata Klaine</h3>
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia
-- 🎯 Atualmente estudando **Desenvolvimento Back-end**, com foco em **Python & Bancos de Dados relacionais | SQL**
+<h4 align="center"> 💻 Estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia</h4>
+<h4 align="center"> 🎯 Desenvolvimento Back-end, com foco em Python & Bancos de Dados SQL </h4>
 
 ---
 
