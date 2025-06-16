@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem-vindo(a) ao meu perfil do GitHub!</h1>
+<h1 align="center">Seja bem-vindo(a)!</h1>
 <h3 align="center">Eu sou Renata Klaine</h3>
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia
