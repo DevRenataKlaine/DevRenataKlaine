@@ -18,16 +18,29 @@
 ### 🛠️ Tecnologias que eu utilizo:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PL%20SQL-F80000?style=flat&logoColor=white"/> 
+  <!-- IDEs / Editores --> 
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> 
+  <!-- Ferramentas / Frameworks --> 
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> 
+  <!-- Versionamento / DevOps --> 
+  <img src="https://img.shields.io/badge/Git-FF0000?style=flat&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/> 
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> 
+  <!-- Outros --> 
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Agile-FF6600?style=flat&logoColor=white"/>
+
 </div>
 
 ---
